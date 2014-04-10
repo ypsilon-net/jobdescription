@@ -2,42 +2,6 @@
 
     |header|
 
-===============================
-Softwareentwickler Python (m/w)
-===============================
-
-
-`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. / Leipzig, Deutschland)                                                                                                                                               
---------------------------------------------------------------------------------------
-
-Beschreibung
-''''''''''''
-
-
-Wir suchen nach einem selbständigen, flexiblen und belastbaren Python Programmierer der bereit ist, Teil unseres neuen Büros in Leipzig oder des Teams in Frankfurt a.M zu werden und sich neuen Herausforderungen zu stellen. Wir bieten  eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen und kreativen Arbeitsumfeld mit flexibler Arbeitszeit in unbefristeten Arbeitsverhältnissen. Außerdem ermöglichen wir den Zugang zu exklusiven Reiseangeboten die nur für Mitarbeiter im Bereich Touristik verfügbar sind.
-
-Ihr Profil
-''''''''''
-
-* Sie haben ein solides Verständnis für Objekt-orientierte Programmierung mit fundierter Erfahrung im Bereich Softwareentwicklung, Python Kenntnisse sind wünschenswert
-* Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
-* Erfahrung mit asynchroner Netzwerkprogrammierung für verteilte Systeme wie Twisted Python wäre eine Bereicherung
-* Gute SQL Kenntnisse (PostgreSQL) und grundsätzliche Erfahrung in der Administration von Datenbanken wäre ein Plus
-* Sie sollten XML verstehen können und in der Lage sein, entsprechende Daten zu parsen und zu erstellen
-* Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
-* Sie können in Englisch und Deutsch kommunizieren
-* Erfahrung im Bereich Zahlungssysteme beziehungsweise Fraud Erkennung wären hoch geschätzt
-
-.. include:: ueber.rst
-
-Kontakt Information
-'''''''''''''''''''
-
-:Frankfurt a.M.: Steffen Oschatz <so@ypsilon.net>
-:Leipzig: Sven Richter <sr@ypsilon.net>
-:Telefon: +49 6109 5050
-
-
 ==============================
 Softwaredeveloper Python (m/f)
 ==============================
@@ -78,6 +42,114 @@ Contact Info:
 :Frankfurt a.M.: Steffen Oschatz <so@ypsilon.net>
 :Leipzig: Sven Richter <sr@ypsilon.net>
 :Phone: +49 6109 5050
+
+
+=========================================
+Experienced Softwaredeveloper PHP (m/f)
+=========================================
+
+
+`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. or Leipzig, Germany)
+--------------------------------------------------------------------------------
+
+Job Description
+'''''''''''''''
+
+We are looking for a self dependent, flexible, resilient PHP
+programmer who is willing to become part of our Development Team
+in Leipzig or Frankfurt a. M. area and
+excited to tackle new varied challenges. We offer fascinating,
+diversified software projects in a highly dynamic and creative working
+environment and long term employment with flexible working hours. We can
+also provide access to exclusive touristic offers only available for
+travel business employees.
+ 
+Requirements
+''''''''''''
+
+* You have a strong background in PHP with a minimum of on year professional experience.
+* Profound knowledge of JavaScript is required 
+* You are comfortable with Linux as development environment
+* Good SQL knowledge (MySQL, PostgreSQL) is a must and basic database administrative experience is an advantage
+* You should be familiar with common used version management systems, git knowledge is a plus
+* You should be able to communicate in English or German
+ 
+.. include:: about.rst
+ 
+Contact Info:
+'''''''''''''
+ 
+:Contact: Simon Schiele
+:E-Mail: phpteam@ypsilon.net
+:Phone: +49 6109 5050
+
+
+===============================
+Softwareentwickler Python (m/w)
+===============================
+
+
+`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. / Leipzig, Deutschland)                                                                                                                                               
+--------------------------------------------------------------------------------------
+
+Beschreibung
+''''''''''''
+
+
+Wir suchen nach einem selbständigen, flexiblen und belastbaren Python Programmierer der bereit ist, Teil unseres neuen Büros in Leipzig oder des Teams in Frankfurt a.M zu werden und sich neuen Herausforderungen zu stellen. Wir bieten  eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen und kreativen Arbeitsumfeld mit flexibler Arbeitszeit in unbefristeten Arbeitsverhältnissen. Außerdem ermöglichen wir den Zugang zu exklusiven Reiseangeboten die nur für Mitarbeiter im Bereich Touristik verfügbar sind.
+
+Ihr Profil
+''''''''''
+
+* Sie haben ein solides Verständnis für Objekt-orientierte Programmierung mit fundierter Erfahrung im Bereich Softwareentwicklung, Python Kenntnisse sind wünschenswert
+* Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
+* Erfahrung mit asynchroner Netzwerkprogrammierung für verteilte Systeme wie Twisted Python wäre eine Bereicherung
+* Gute SQL Kenntnisse (PostgreSQL) und grundsätzliche Erfahrung in der Administration von Datenbanken wäre ein Plus
+* Sie sollten XML verstehen können und in der Lage sein, entsprechende Daten zu parsen und zu erstellen
+* Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
+* Sie können in Englisch und Deutsch kommunizieren
+* Erfahrung im Bereich Zahlungssysteme beziehungsweise Fraud Erkennung wären hoch geschätzt
+
+.. include:: ueber.rst
+
+Kontakt Information
+'''''''''''''''''''
+
+:Frankfurt a.M.: Steffen Oschatz <so@ypsilon.net>
+:Leipzig: Sven Richter <sr@ypsilon.net>
+:Telefon: +49 6109 5050
+
+
+=======================================
+Erfahrener Softwareentwickler PHP (m/w)
+=======================================
+
+
+`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. / Leipzig, Deutschland)                                                                                                                                               
+--------------------------------------------------------------------------------------
+
+Beschreibung
+''''''''''''
+
+Wir suchen nach einem selbständigen, flexiblen und belastbaren PHP Programmierer der bereit ist, Teil unseres neuen Büros in Leipzig oder des Teams in Frankfurt a.M zu werden und sich neuen Herausforderungen zu stellen. Wir bieten  eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen und kreativen Arbeitsumfeld mit flexibler Arbeitszeit in unbefristeten Arbeitsverhältnissen. Außerdem ermöglichen wir den Zugang zu exklusiven Reiseangeboten die nur für Mitarbeiter im Bereich Touristik verfügbar sind.
+
+Ihr Profil
+''''''''''
+* Sie haben professionelle Programmiererfahrung mit PHP (mind. ein Jahr)
+* Fundierte JavaScript Kentnisse gehören zu Ihrem Repertoire
+* Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
+* Gute SQL Kenntnisse (MySQL, PostreSQL) sind vorhanden und grundsätzliche Erfahrung in der Administration von Datenbanken wäre ein Plus
+* Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
+* Sie können in Englisch und Deutsch kommunizieren
+
+.. include:: ueber.rst
+
+Kontakt Information
+'''''''''''''''''''
+
+:Kontakt: Simon Schiele
+:Email: phpteam@ypsilon.net
+:Telefon: +49 6109 5050
 
 
 .. footer::

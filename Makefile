@@ -16,5 +16,5 @@ pdf:
 
 complete:
 	rm README.rst
-	cat header.rst job_beschreibung.rst job_description.rst footer.rst > README.rst
+	cat header.rst  job_description.rst job_description_php.rst job_beschreibung.rst job_beschreibung_php.rst  footer.rst > README.rst
 	
