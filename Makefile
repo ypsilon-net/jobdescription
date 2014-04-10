@@ -9,10 +9,12 @@ clean:
 	rm *.pdf
 
 pdf: 
-	rst2pdf job_beschreibung.rst
-	rst2pdf job_description.rst
+	cat header.rst job_beschreibung.rst footer.rst | rst2pdf > job_beschreibung.pdf
+	cat header.rst job_description.rst footer.rst | rst2pdf > job_description.pdf
+	cat header.rst job_beschreibung_php.rst footer.rst | rst2pdf > job_beschreibung_php.pdf
+	cat header.rst job_description_php.rst footer.rst | rst2pdf > job_description_php.pdf
 
 complete:
 	rm README.rst
-	cat *.rst > README.rst
+	cat header.rst job_beschreibung.rst job_description.rst footer.rst > README.rst
 	

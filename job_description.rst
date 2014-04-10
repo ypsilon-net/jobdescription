@@ -1,10 +1,7 @@
-.. header::
 
-    |header|
-
-=================
-Softwaredeveloper
-=================
+==============================
+Softwaredeveloper Python (m/f)
+==============================
 
 
 `Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. or Leipzig, Germany)                                                                                                                                               
@@ -34,16 +31,7 @@ Requirements
 * You should be able to communicate in English or German
 * Experience in Payment or Fraud detection would be highly valuated
  
-About the company
-'''''''''''''''''
- 
-Ypsilon is a global provider of modular internet travel technology for
-the travel industry including airlines, consolidators, travel providers
-and travel agencies. With customers in over 20 countries worldwide,
-servicing in excess of 90,000 web based agents. Corporate headquarter
-is based in Frankfurt, with additional development offices in Leipzig, Germany and 
-Breslau, Poland and a sales and support team in Burgess Hill, UK. Ypsilon .net is
-a PCI DSS level 1 certified company.
+.. include:: about.rst
  
 Contact Info:
 '''''''''''''
@@ -52,21 +40,3 @@ Contact Info:
 :Leipzig: Sven Richter <sr@ypsilon.net>
 :Phone: +49 6109 5050
 
-.. footer::
-
-    |ypsilon| |flightbox| |etacs| |magic| |specials|
-
-.. |header| image:: header.jpg
-    :width: 18cm
-    :height: 3cm
-
-.. |ypsilon| image:: ypsilon.png
-    :width: 3cm
-.. |flightbox| image:: flightbox.jpg
-    :width: 3cm
-.. |etacs| image:: etacs.jpg
-    :width: 3cm
-.. |magic| image:: magic.jpg
-    :width: 3cm
-.. |specials| image:: specials.jpg
-    :width: 3cm
