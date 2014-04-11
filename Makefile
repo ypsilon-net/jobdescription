@@ -14,7 +14,7 @@ pdf:
 	cat header.rst job_beschreibung_php.rst footer.rst | rst2pdf > job_beschreibung_php.pdf
 	cat header.rst job_description_php.rst footer.rst | rst2pdf > job_description_php.pdf
 
-complete:
+complete: pdf
 	rm README.rst
 	cat header.rst  job_description.rst job_description_php.rst job_beschreibung.rst job_beschreibung_php.rst  footer.rst > README.rst
 	
