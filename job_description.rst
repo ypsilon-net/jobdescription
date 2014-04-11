@@ -31,7 +31,7 @@ Requirements
 * You should be able to communicate in English or German
 * Experience in Payment or Fraud detection would be highly valuated
  
-.. include:: about.rst
+.. include:: inc/about.rst
  
 Contact Info:
 '''''''''''''

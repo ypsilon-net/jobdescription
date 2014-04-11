@@ -25,7 +25,7 @@ Ihr Profil
 * Sie können in Englisch und Deutsch kommunizieren
 * Erfahrung im Bereich Zahlungssysteme beziehungsweise Fraud Erkennung wären hoch geschätzt
 
-.. include:: ueber.rst
+.. include:: inc/ueber.rst
 
 Kontakt Information
 '''''''''''''''''''

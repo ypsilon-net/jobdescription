@@ -29,7 +29,7 @@ Requirements
 * You should be familiar with common used version management systems, git knowledge is a plus
 * You should be able to communicate in English or German
  
-.. include:: about.rst
+.. include:: inc/about.rst
  
 Contact Info:
 '''''''''''''

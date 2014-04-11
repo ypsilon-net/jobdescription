@@ -21,7 +21,7 @@ Ihr Profil
 * Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
 * Sie können in Englisch und Deutsch kommunizieren
 
-.. include:: ueber.rst
+.. include:: inc/ueber.rst
 
 Kontakt Information
 '''''''''''''''''''

@@ -34,7 +34,7 @@ Requirements
 * You should be able to communicate in English or German
 * Experience in Payment or Fraud detection would be highly valuated
  
-.. include:: about.rst
+.. include:: inc/about.rst
  
 Contact Info:
 '''''''''''''
@@ -74,7 +74,7 @@ Requirements
 * You should be familiar with common used version management systems, git knowledge is a plus
 * You should be able to communicate in English or German
  
-.. include:: about.rst
+.. include:: inc/about.rst
  
 Contact Info:
 '''''''''''''
@@ -110,7 +110,7 @@ Ihr Profil
 * Sie können in Englisch und Deutsch kommunizieren
 * Erfahrung im Bereich Zahlungssysteme beziehungsweise Fraud Erkennung wären hoch geschätzt
 
-.. include:: ueber.rst
+.. include:: inc/ueber.rst
 
 Kontakt Information
 '''''''''''''''''''
@@ -142,7 +142,7 @@ Ihr Profil
 * Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
 * Sie können in Englisch und Deutsch kommunizieren
 
-.. include:: ueber.rst
+.. include:: inc/ueber.rst
 
 Kontakt Information
 '''''''''''''''''''
@@ -156,17 +156,17 @@ Kontakt Information
 
     |ypsilon| |flightbox| |etacs| |magic| |specials|
 
-.. |header| image:: header.jpg
+.. |header| image:: pic/header.jpg
     :width: 18cm
     :height: 3cm
 
-.. |ypsilon| image:: ypsilon.png
+.. |ypsilon| image:: pic/ypsilon.png
     :width: 3cm
-.. |flightbox| image:: flightbox.jpg
+.. |flightbox| image:: pic/flightbox.jpg
     :width: 3cm
-.. |etacs| image:: etacs.jpg
+.. |etacs| image:: pic/etacs.jpg
     :width: 3cm
-.. |magic| image:: magic.jpg
+.. |magic| image:: pic/magic.jpg
     :width: 3cm
-.. |specials| image:: specials.jpg
+.. |specials| image:: pic/specials.jpg
     :width: 3cm
