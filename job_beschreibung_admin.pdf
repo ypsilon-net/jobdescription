@@ -10,10 +10,10 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:pc@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 235.7023 201.7736 304.2123 213.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:pc@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 235.7023 195.7736 304.2123 207.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:pfote@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 438.7423 201.7736 518.9323 213.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:pfote@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 438.7423 195.7736 518.9323 207.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /DCTDecode ] /Height 591 /Length 200060 /Subtype /Image 
@@ -65,7 +65,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20141021164050-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141021184742-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Netzwerk Administrator \(m/w\)) >>
 endobj
 16 0 obj
@@ -81,13 +81,13 @@ endobj
 << /Dest [ 13 0 R /XYZ 62.69291 369.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (\334ber die Firma) >>
 endobj
 20 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 246.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Kontakt Information) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 240.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Kontakt Information) >>
 endobj
 21 0 obj
 << /Count 1 /Kids [ 13 0 R ] /Type /Pages >>
 endobj
 22 0 obj
-<< /Length 7420 >>
+<< /Length 7505 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -114,14 +114,14 @@ q
 1 0 0 1 62.69291 612.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.559979 Tw (Wir suchen nach einem selbst\344ndigen, flexiblen und belastbaren Netzwerk Administrator der eine) Tj T* 0 Tw 2.639269 Tw (Schl\374sselposition in unserem IT Team in Frankfurt a.M \374bernehmen soll und direkt dem Leiter der) Tj T* 0 Tw .052651 Tw (IT-Abteilung unterstellt ist. Dies ist eine aktive technische Position die sich auf die Betreuung und Wartung) Tj T* 0 Tw (der Netzwerk-Infrastruktur, der Server Hardware/Software sowie deren setup konzentriert.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.307251 Tw (Wir suchen nach einem selbst\344ndigen, flexiblen und belastbaren Netzwerk Administrator, der eine) Tj T* 0 Tw 2.639269 Tw (Schl\374sselposition in unserem IT Team in Frankfurt a.M \374bernehmen soll und direkt dem Leiter der) Tj T* 0 Tw .052651 Tw (IT-Abteilung unterstellt ist. Dies ist eine aktive technische Position die sich auf die Betreuung und Wartung) Tj T* 0 Tw (der Netzwerk-Infrastruktur, der Server Hardware/Software sowie deren setup konzentriert.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 582.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .115814 Tw (Wir bieten ein unbefristetes Arbeitsverh\344ltnis mit flexible Arbeitszeiten und au\337erdem erm\366glichen wir den) Tj T* 0 Tw (Zugang zu exklusiven Reiseangeboten die nur f\374r Mitarbeiter im Bereich Touristik verf\374gbar sind.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.389979 Tw (Wir bieten ein unbefristetes Arbeitsverh\344ltnis mit flexiblen Arbeitszeiten und au\337erdem erm\366glichen wir) Tj T* 0 Tw (den Zugang zu exklusiven Reiseangeboten, die nur f\374r Mitarbeiter im Bereich Touristik verf\374gbar sind.) Tj T* ET
 Q
 Q
 q
@@ -271,7 +271,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hoch gesch\344tzt w\344hre Sachkenntnis bez\374glich der Aufrechterhaltung einer CA Hierarchie \(openssl\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (hoch gesch\344tzt w\344hre Sachkenntnis bez\374glich der Aufrechterhaltung einer CA Hierarchie \(openssl\)) Tj T* ET
 Q
 Q
 q
@@ -311,23 +311,30 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\334ber die Firma) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 258.0236 cm
+1 0 0 1 62.69291 282.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 3.612706 Tw (Ypsilon ist ein globaler Anbieter modularer Infrastrukturen f\374r die Touristik Industrie einschlie\337lich) Tj T* 0 Tw 3.35498 Tw (Fluglinien, Consolidator, Reise Anbieter und Reiseb\374ros. Mit Kunden in \374ber 20 L\344ndern weltweit) Tj T* 0 Tw 1.039147 Tw (betreuen wir mehr als 90.000 internetbasierende Agenten. Die Firmenzentrale befindet sich in Frankfurt) Tj T* 0 Tw 2.851797 Tw (am Main mit zus\344tzlichen Entwicklungs-Standorten in Leipzig, Deutschland und Breslau, Polen und) Tj T* 0 Tw 2.280697 Tw (au\337erdem einem Verkaufs und Kundendienst Team in Burgess Hill, UK. Ypsilon.net ist als eine der) Tj T* 0 Tw 1.606412 Tw (wenigen Firmen in der Touristik f\374r den sicheren Umgang mit Kundenzahlungsdaten PCI DSS level 1) Tj T* 0 Tw (zertifiziert.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.612706 Tw (Ypsilon ist ein globaler Anbieter modularer Infrastrukturen f\374r die Touristik Industrie einschlie\337lich) Tj T* 0 Tw 3.35498 Tw (Fluglinien, Consolidator, Reise Anbieter und Reiseb\374ros. Mit Kunden in \374ber 20 L\344ndern weltweit) Tj T* 0 Tw 1.039147 Tw (betreuen wir mehr als 90.000 internetbasierende Agenten. Die Firmenzentrale befindet sich in Frankfurt) Tj T* 0 Tw 2.146342 Tw (am Main mit zus\344tzlichen Entwicklungs-Standorten in Leipzig \(Deutschland\) und Breslau \(Polen\) und) Tj T* 0 Tw (au\337erdem einem Verkaufs- und Kundendienst-Team in Burgess Hill, UK.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 252.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.696412 Tw (Ypsilon.net ist als eine der wenigen Firmen in der Touristik f\374r den sicheren Umgang mit) Tj T* 0 Tw (Kundenzahlungsdaten PCI DSS level 1 zertifiziert.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Kontakt Information) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 213.0236 cm
+1 0 0 1 62.69291 207.0236 cm
 Q
 q
-1 0 0 1 62.69291 198.0236 cm
+1 0 0 1 62.69291 192.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -347,7 +354,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -441,13 +448,13 @@ xref
 0000242235 00000 n
 0000242359 00000 n
 0000242423 00000 n
-0000249900 00000 n
-0000249944 00000 n
+0000249985 00000 n
+0000250029 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\334\326\267!PqW\2033\037\001\245\277\361\0317) (\334\326\267!PqW\2033\037\001\245\277\361\0317)]
+ [(\237 \352\245{\016=\3418\370\263Q\340\016\254/) (\237 \352\245{\016=\3418\370\263Q\340\016\254/)]
  /Info 15 0 R /Root 14 0 R /Size 25 >>
 startxref
-249981
+250066
 %%EOF

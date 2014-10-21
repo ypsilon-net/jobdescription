@@ -10,10 +10,10 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:pc@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 159.5723 219.7736 228.0823 231.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:pc@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 235.7023 189.7736 304.2123 201.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:pfote@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 159.5723 192.7736 239.7623 204.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:pfote@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 427.6223 189.7736 507.8123 201.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
 << /BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /DCTDecode ] /Height 591 /Length 200060 /Subtype /Image 
@@ -65,7 +65,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20141021150856-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141021184743-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Network Administrator \(m/f\)) >>
 endobj
 16 0 obj
@@ -75,19 +75,19 @@ endobj
 << /Dest [ 13 0 R /XYZ 62.69291 687.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Job Description) >>
 endobj
 18 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 564.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Requirements) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 552.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Requirements) >>
 endobj
 19 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 363.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (About the company) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 351.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (About the company) >>
 endobj
 20 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 264.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Contact Info:) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 234.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Contact Info:) >>
 endobj
 21 0 obj
 << /Count 1 /Kids [ 13 0 R ] /Type /Pages >>
 endobj
 22 0 obj
-<< /Length 7537 >>
+<< /Length 7364 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -111,40 +111,40 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Job Description) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .310574 Tw (We are looking for a self dependent, flexible, resilient Network Administrator who will be a key member of) Tj T* 0 Tw 1.005777 Tw (the IT Team and report to the Director of IT. It is a hands-on technical position focusing on the support) Tj T* 0 Tw (and maintenance of the network infrastructure, server hardware/software setup and maintenance.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .310574 Tw (We are looking for a self dependent, flexible, resilient Network Administrator who will be a key member of) Tj T* 0 Tw .685251 Tw (the IT Team in Frankfurt a.M and report to the Director of IT. It is a hands-on technical position focusing) Tj T* 0 Tw 2.88998 Tw (on the support and maintenance of the network infrastructure, server hardware/software setup and) Tj T* 0 Tw (maintenance.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.796651 Tw (We offer long term employment with flexible working hours and can also provide access to exclusive) Tj T* 0 Tw (touristic offers only available for travel business employees.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 576.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Police clearance certificate will be required as part of the infrastructure is considered high security.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requirements) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 531.0236 cm
+1 0 0 1 62.69291 519.0236 cm
 Q
 q
-1 0 0 1 62.69291 531.0236 cm
+1 0 0 1 62.69291 519.0236 cm
 Q
 q
-1 0 0 1 62.69291 507.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -165,10 +165,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 477.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -182,17 +182,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You posses good knowledge and experience of FreeBSDs packet filter firewall) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You possess good knowledge and experience of FreeBSDs packet filter firewall) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 483.0236 cm
 Q
 q
 1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -213,10 +213,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -237,10 +237,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -261,10 +261,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 393.0236 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -285,10 +285,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 387.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 Q
 q
-1 0 0 1 62.69291 375.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -302,79 +302,66 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You should be able to communicate in English or German) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You should be able to communicate in English and German) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 375.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 342.0236 cm
+1 0 0 1 62.69291 330.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (About the company) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 276.0236 cm
+1 0 0 1 62.69291 264.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .683984 Tw (Ypsilon is a global provider of modular internet travel technology for the travel industry including airlines,) Tj T* 0 Tw 2.755814 Tw (consolidators, travel providers and travel agencies. With customers in over 20 countries worldwide,) Tj T* 0 Tw 2.43784 Tw (servicing in excess of 90,000 web based agents. Corporate headquarter is based in Frankfurt, with) Tj T* 0 Tw .384651 Tw (additional development offices in Leipzig, Germany and Breslau, Poland and a sales and support team in) Tj T* 0 Tw (Burgess Hill, UK. Ypsilon .net is a PCI DSS level 1 certified company.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .683984 Tw (Ypsilon is a global provider of modular internet travel technology for the travel industry including airlines,) Tj T* 0 Tw 2.755814 Tw (consolidators, travel providers and travel agencies. With customers in over 20 countries worldwide,) Tj T* 0 Tw 2.43784 Tw (servicing in excess of 90,000 web based agents. Corporate headquarter is based in Frankfurt, with) Tj T* 0 Tw .384651 Tw (additional development offices in Leipzig, Germany and Breslau, Poland and a sales and support team in) Tj T* 0 Tw (Burgess Hill, UK.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ypsilon.net is a PCI DSS level 1 certified company.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact Info:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 186.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 39.68937 0 Td (Patrick) Tj T* -13.31 0 Td (Coulomb:) Tj T* -26.37937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 32.48937 0 Td (Contact:) Tj T* -32.48937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 15 cm
+1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (<) Tj 0 0 .501961 rg (pc@ypsilon.net) Tj 0 0 0 rg (>) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 177.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 33.02937 0 Td (Andreas) Tj T* -21.66 0 Td (Pfotenhauer:) Tj T* -11.36937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 15 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (<) Tj 0 0 .501961 rg (pfote@ypsilon.net) Tj 0 0 0 rg (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Patrick Coulomb <) Tj 0 0 .501961 rg (pc@ypsilon.net) Tj 0 0 0 rg (> or Andreas Pfotenhauer <) Tj 0 0 .501961 rg (pfote@ypsilon.net) Tj 0 0 0 rg (>) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 162.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -468,13 +455,13 @@ xref
 0000242239 00000 n
 0000242357 00000 n
 0000242421 00000 n
-0000250015 00000 n
-0000250059 00000 n
+0000249842 00000 n
+0000249886 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\034\233\221\025i\346\227\032\010+\000h|\256\263-) (\034\233\221\025i\346\227\032\010+\000h|\256\263-)]
+ [(\366\361He\004Uc9l/\330$\277&\037\320) (\366\361He\004Uc9l/\330$\277&\037\320)]
  /Info 15 0 R /Root 14 0 R /Size 25 >>
 startxref
-250096
+249923
 %%EOF
