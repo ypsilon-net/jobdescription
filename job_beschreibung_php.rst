@@ -10,7 +10,7 @@ Erfahrener Softwareentwickler PHP (m/w)
 Beschreibung
 ''''''''''''
 
-Wir suchen nach einem selbständigen, flexiblen und belastbaren PHP Programmierer der bereit ist, Teil unseres neuen Büros in Leipzig oder des Teams in Frankfurt a.M zu werden und sich neuen Herausforderungen zu stellen. Wir bieten  eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen und kreativen Arbeitsumfeld mit flexibler Arbeitszeit in unbefristeten Arbeitsverhältnissen. Außerdem ermöglichen wir den Zugang zu exklusiven Reiseangeboten die nur für Mitarbeiter im Bereich Touristik verfügbar sind.
+Wir suchen nach einem selbständigen, flexiblen und belastbaren PHP Programmierer der bereit ist, Teil unseres Büros in Leipzig oder des Teams in Frankfurt a.M zu werden und sich neuen Herausforderungen zu stellen. Wir bieten  eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen und kreativen Arbeitsumfeld mit flexibler Arbeitszeit in unbefristeten Arbeitsverhältnissen. Außerdem ermöglichen wir den Zugang zu exklusiven Reiseangeboten die nur für Mitarbeiter im Bereich Touristik verfügbar sind.
 
 Ihr Profil
 ''''''''''
@@ -25,8 +25,7 @@ Ihr Profil
 
 Kontakt Information
 '''''''''''''''''''
-
-:Kontakt: Simon Schiele
-:Email: phpteam@ypsilon.net
+:Frankfurt a.M.: Steffen Oschatz <so@ypsilon.net>
+:Leipzig: Sven Richter <sr@ypsilon.net>
 :Telefon: +49 6109 5050
 

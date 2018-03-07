@@ -36,7 +36,7 @@ Requirements
 Contact Info:
 '''''''''''''
  
-:Contact: Patrick Coulomb <pc@ypsilon.net> or Andreas Pfotenhauer <pfote@ypsilon.net>
+:Contact: Patrick Coulomb <pc@ypsilon.net> or Steffen Oschatz <sr@ypsilon.net>
 :Phone: +49 6109 505135
 
 

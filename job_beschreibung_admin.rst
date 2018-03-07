@@ -36,6 +36,6 @@ Ihr Profil
 Kontakt Information
 '''''''''''''''''''
 
-:Kontakt: Patrick Coulomb <pc@ypsilon.net> oder Andreas Pfotenhauer <pfote@ypsilon.net>
+:Kontakt: Patrick Coulomb <pc@ypsilon.net> oder Steffen Oschatz <so@ypsilon.net>
 :Telefon: +49 6109 505135
 
