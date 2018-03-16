@@ -23,8 +23,9 @@ Requirements
 ''''''''''''
 
 * You are experienced in the Linux network/server administration field in general, good knowledge of Debian system is a plus
-* You possess good knowledge and experience of FreeBSDs packet filter firewall
-* You are comfortable with at least one configuration management system (chef, puppet etc)
+* You possess good knowledge and experience of packet filter firewalls
+* You are comfortable with at least one configuration management system (Ansible, etc)
+* You can handle VMware (vCenter)
 * Experience in setup/maintenance of DNS (bind), LDAP(openldap), Webservers(Apache, Nginx), Databases (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) is a plus
 * Knowledge of a scripting language (python, perl, sh, python preferred) for automation/customization would be an asset
 * Experience maintaining a CA hierarchy (openssl) is an advantage
@@ -36,8 +37,8 @@ Requirements
 Contact Info:
 '''''''''''''
  
-:Contact: Patrick Coulomb <pc@ypsilon.net> or Steffen Oschatz <sr@ypsilon.net>
-:Phone: +49 6109 505135
+:Contact: Achim Klenz <jk@ypsilon.net> or Steffen Oschatz <so@ypsilon.net>
+:Phone: +49 6109 50510
 
 
 
