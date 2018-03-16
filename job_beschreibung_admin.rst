@@ -24,8 +24,9 @@ Ihr Profil
 ''''''''''
 
 * Sie sind erfahren im allgemeinen Bereich Linux Administration (Netzwerk, Server), gute Kenntnisse von Debian sind ein Plus
-* Sie haben bereits Erfahrungen mit FreeBSDs Packet-Filter-Firewall
-* Sie sind mit der Handhabung von Konfigurations Management Systemen (chef, puppet etc) vertraut
+* Sie haben bereits Erfahrungen mit Packet-Filter-Firewalls
+* Sie sind vertraut mit VMware (vCenter)
+* Sie sind mit der Handhabung von Konfigurations Management Systemen (Ansible, etc) vertraut
 * Kenntnisse zum  Setup/Wartung von DNS (bind), LDAP (openldap), Webserver (Apache, Nginx), Datenbanken (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) wären eine Bereicherung
 * Erfahrungen mit Script Sprachen (python, perl, sh, python bevorzugt) sind von Vorteil
 * hoch geschätzt währe Sachkenntnis bezüglich der Aufrechterhaltung einer CA Hierarchie (openssl)
@@ -36,6 +37,6 @@ Ihr Profil
 Kontakt Information
 '''''''''''''''''''
 
-:Kontakt: Patrick Coulomb <pc@ypsilon.net> oder Steffen Oschatz <so@ypsilon.net>
-:Telefon: +49 6109 505135
+:Kontakt: Achim Klenz <jk@ypsilon.net> oder Steffen Oschatz <so@ypsilon.net>
+:Telefon: +49 6109 50510
 
