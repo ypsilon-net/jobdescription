@@ -7,6 +7,7 @@ help:
 
 clean: 
 	rm *.pdf
+	rm docs/job*.pdf
 	rm docs/job*.html
 	
 html: 
@@ -19,12 +20,12 @@ html:
 	cat inc/header.rst index.rst inc/footer.rst | pandoc -f rst -t html > docs/index.html
 
 pdf: 
-	cat inc/header.rst job_beschreibung.rst inc/footer.rst | rst2pdf > job_beschreibung.pdf
-	cat inc/header.rst job_description.rst inc/footer.rst | rst2pdf > job_description.pdf
-	cat inc/header.rst job_beschreibung_php.rst inc/footer.rst | rst2pdf > job_beschreibung_php.pdf
-	cat inc/header.rst job_description_php.rst inc/footer.rst | rst2pdf > job_description_php.pdf
-	cat inc/header.rst job_beschreibung_admin.rst inc/footer.rst | rst2pdf > job_beschreibung_admin.pdf
-	cat inc/header.rst job_description_admin.rst inc/footer.rst | rst2pdf > job_description_admin.pdf
+	cat inc/header.rst job_beschreibung.rst inc/footer.rst | rst2pdf > docs/job_beschreibung.pdf
+	cat inc/header.rst job_description.rst inc/footer.rst | rst2pdf > docs/job_description.pdf
+	cat inc/header.rst job_beschreibung_php.rst inc/footer.rst | rst2pdf > docs/job_beschreibung_php.pdf
+	cat inc/header.rst job_description_php.rst inc/footer.rst | rst2pdf > docs/job_description_php.pdf
+	cat inc/header.rst job_beschreibung_admin.rst inc/footer.rst | rst2pdf > docs/job_beschreibung_admin.pdf
+	cat inc/header.rst job_description_admin.rst inc/footer.rst | rst2pdf > docs/job_description_admin.pdf
     
 complete: pdf html
 	rm README.rst
