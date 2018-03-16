@@ -18,15 +18,15 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:pc@ypsilon.net)
->> /Border [ 0 0 0 ] /Rect [ 235.7023 195.0236 304.2123 207.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (mailto:jk@ypsilon.net)
+>> /Border [ 0 0 0 ] /Rect [ 217.9223 177.0236 283.0923 189.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:so@ypsilon.net)
->> /Border [ 0 0 0 ] /Rect [ 415.3923 195.0236 483.9023 207.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 394.2723 177.0236 462.7823 189.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -104,7 +104,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Author () /CreationDate (D:20180307140306-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180307140306-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20180316154856-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180316154856-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Netzwerk Administrator \(m/w\)) /Trapped /False
 >>
 endobj
@@ -125,12 +125,12 @@ endobj
 endobj
 19 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 369.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (\334ber die Firma)
+/Dest [ 13 0 R /XYZ 62.69291 351.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (\334ber die Firma)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 13 0 R /XYZ 62.69291 240.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Kontakt Information)
+/Dest [ 13 0 R /XYZ 62.69291 222.0236 0 ] /Parent 16 0 R /Prev 19 0 R /Title (Kontakt Information)
 >>
 endobj
 21 0 obj
@@ -140,7 +140,7 @@ endobj
 endobj
 22 0 obj
 <<
-/Length 7182
+/Length 7490
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -229,7 +229,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie haben bereits Erfahrungen mit FreeBSDs Packet-Filter-Firewall) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie haben bereits Erfahrungen mit Packet-Filter-Firewalls) Tj T* ET
 Q
 Q
 q
@@ -253,7 +253,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie sind mit der Handhabung von Konfigurations Management Systemen \(chef, puppet etc\) vertraut) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie sind vertraut mit VMware \(vCenter\)) Tj T* ET
 Q
 Q
 q
@@ -263,7 +263,31 @@ q
 1 0 0 1 62.69291 471.0236 cm
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 459.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie sind mit der Handhabung von Konfigurations Management Systemen \(Ansible, etc\) vertraut) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -278,30 +302,6 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.172976 Tw (Kenntnisse zum Setup/Wartung von DNS \(bind\), LDAP \(openldap\), Webserver \(Apache, Nginx\),) Tj T* 0 Tw .99664 Tw (Datenbanken \(Postgresql, MySQL\), mailserver \(postfix\), POP3/IMAP Servers \(dovecot\) w\344ren eine) Tj T* 0 Tw (Bereicherung) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 429.0236 cm
-Q
-q
-1 0 0 1 62.69291 417.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Erfahrungen mit Script Sprachen \(python, perl, sh, python bevorzugt\) sind von Vorteil) Tj T* ET
 Q
 Q
 q
@@ -325,7 +325,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (hoch gesch\344tzt w\344hre Sachkenntnis bez\374glich der Aufrechterhaltung einer CA Hierarchie \(openssl\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Erfahrungen mit Script Sprachen \(python, perl, sh, python bevorzugt\) sind von Vorteil) Tj T* ET
 Q
 Q
 q
@@ -349,6 +349,30 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (hoch gesch\344tzt w\344hre Sachkenntnis bez\374glich der Aufrechterhaltung einer CA Hierarchie \(openssl\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie k\366nnen in Englisch und Deutsch kommunizieren) Tj T* ET
 Q
 Q
@@ -356,39 +380,39 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 381.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 330.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\334ber die Firma) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 282.0236 cm
+1 0 0 1 62.69291 264.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.612706 Tw (Ypsilon ist ein globaler Anbieter modularer Infrastrukturen f\374r die Touristik Industrie einschlie\337lich) Tj T* 0 Tw 3.35498 Tw (Fluglinien, Consolidator, Reise Anbieter und Reiseb\374ros. Mit Kunden in \374ber 20 L\344ndern weltweit) Tj T* 0 Tw 1.039147 Tw (betreuen wir mehr als 90.000 internetbasierende Agenten. Die Firmenzentrale befindet sich in Frankfurt) Tj T* 0 Tw 2.146342 Tw (am Main mit zus\344tzlichen Entwicklungs-Standorten in Leipzig \(Deutschland\) und Breslau \(Polen\) und) Tj T* 0 Tw (au\337erdem einem Verkaufs- und Kundendienst-Team in Burgess Hill \(United Kingdom\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.696412 Tw (Ypsilon.net ist als eine der wenigen Firmen in der Touristik f\374r den sicheren Umgang mit) Tj T* 0 Tw (Kundenzahlungsdaten PCI DSS level 1 zertifiziert.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Kontakt Information) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 207.0236 cm
+1 0 0 1 62.69291 189.0236 cm
 Q
 q
-1 0 0 1 62.69291 192.0236 cm
+1 0 0 1 62.69291 174.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -401,14 +425,14 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Patrick Coulomb <) Tj 0 0 .501961 rg (pc@ypsilon.net) Tj 0 0 0 rg (> oder Steffen Oschatz <) Tj 0 0 .501961 rg (so@ypsilon.net) Tj 0 0 0 rg (>) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Achim Klenz <) Tj 0 0 .501961 rg (jk@ypsilon.net) Tj 0 0 0 rg (> oder Steffen Oschatz <) Tj 0 0 .501961 rg (so@ypsilon.net) Tj 0 0 0 rg (>) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 177.0236 cm
+1 0 0 1 62.69291 159.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -422,7 +446,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+49 6109 505135) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+49 6109 50510) Tj T* ET
 Q
 Q
 q
@@ -506,12 +530,12 @@ xref
 0000242201 00000 n 
 0000242322 00000 n 
 0000242383 00000 n 
-0000249617 00000 n 
-0000249658 00000 n 
+0000249925 00000 n 
+0000249966 00000 n 
 trailer
 <<
 /ID 
-[<40bb4b9556a5870c9f7839df34307c14><40bb4b9556a5870c9f7839df34307c14>]
+[<e66302602a22395fd17704acfd075a97><e66302602a22395fd17704acfd075a97>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 15 0 R
@@ -519,5 +543,5 @@ trailer
 /Size 25
 >>
 startxref
-249692
+250000
 %%EOF
