@@ -16,6 +16,7 @@ html:
 	cat inc/header.rst job_description.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description.html
 	cat inc/header.rst job_description_php.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description_php.html
 	cat inc/header.rst job_description_admin.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description_admin.html
+	cat inc/header.rst index.rst inc/footer.rst | pandoc -f rst -t html > docs/index.html
 
 pdf: 
 	cat inc/header.rst job_beschreibung.rst inc/footer.rst | rst2pdf > job_beschreibung.pdf
