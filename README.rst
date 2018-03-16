@@ -1,6 +1,3 @@
-.. header::
-
-    |header|
 
 ==============================
 Softwaredeveloper Python (m/f)
@@ -239,22 +236,3 @@ Kontakt Information
 :Kontakt: Achim Klenz <jk@ypsilon.net> oder Steffen Oschatz <so@ypsilon.net>
 :Telefon: +49 6109 50510
 
-
-.. footer::
-
-    |ypsilon| |flightbox| |etacs| |magic| |specials|
-
-.. |header| image:: pic/header.jpg
-    :width: 18cm
-    :height: 3cm
-
-.. |ypsilon| image:: pic/ypsilon.png
-    :width: 3cm
-.. |flightbox| image:: pic/flightbox.jpg
-    :width: 3cm
-.. |etacs| image:: pic/etacs.jpg
-    :width: 3cm
-.. |magic| image:: pic/magic.jpg
-    :width: 3cm
-.. |specials| image:: pic/specials.jpg
-    :width: 3cm
