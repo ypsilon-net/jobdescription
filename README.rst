@@ -84,6 +84,50 @@ Contact Info:
 :Phone: +49 6109 5050
 
 
+===========================
+Network Administrator (m/f)
+===========================
+
+
+`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M.)                                                                                                                                               
+--------------------------------------------------------------------------------
+
+Job Description
+'''''''''''''''
+
+We are looking for a self dependent, flexible, resilient Network Administrator
+who will be a key member of the IT Team in Frankfurt a.M and report to the Director of IT.
+It is a hands-on technical position focusing on the support and maintenance of the 
+network infrastructure, server hardware/software setup and maintenance. 
+
+We offer long term employment with flexible working hours and can also provide access to exclusive touristic offers only available for travel business employees.
+ 
+Police clearance certificate will be required as part of the infrastructure is considered high security.
+
+Requirements
+''''''''''''
+
+* You are experienced in the Linux network/server administration field in general, good knowledge of Debian system is a plus
+* You possess good knowledge and experience of FreeBSDs packet filter firewall
+* You are comfortable with at least one configuration management system (chef, puppet etc)
+* Experience in setup/maintenance of DNS (bind), LDAP(openldap), Webservers(Apache, Nginx), Databases (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) is a plus
+* Knowledge of a scripting language (python, perl, sh, python preferred) for automation/customization would be an asset
+* Experience maintaining a CA hierarchy (openssl) is an advantage
+* You should be able to communicate in English and German
+
+
+.. include:: inc/about.rst
+ 
+Contact Info:
+'''''''''''''
+ 
+:Contact: Patrick Coulomb <pc@ypsilon.net> or Steffen Oschatz <sr@ypsilon.net>
+:Phone: +49 6109 505135
+
+
+
+
+
 ===============================
 Softwareentwickler Python (m/w)
 ===============================
@@ -151,6 +195,48 @@ Kontakt Information
 :Frankfurt a.M.: Steffen Oschatz <so@ypsilon.net>
 :Leipzig: Sven Richter <sr@ypsilon.net>
 :Telefon: +49 6109 5050
+
+
+============================
+Netzwerk Administrator (m/w)
+============================
+
+
+`Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M.)                                                                                                                                               
+------------------------------------------------------------
+
+Beschreibung
+''''''''''''
+
+Wir suchen nach einem selbständigen, flexiblen und belastbaren Netzwerk Administrator,
+der eine Schlüsselposition in unserem IT Team in Frankfurt a.M übernehmen soll und direkt 
+dem Leiter der IT-Abteilung unterstellt ist.  
+Dies ist eine aktive technische Position die sich auf die Betreuung und Wartung der 
+Netzwerk-Infrastruktur, der Server Hardware/Software sowie deren setup konzentriert.
+
+Wir bieten ein unbefristetes Arbeitsverhältnis mit flexiblen Arbeitszeiten und außerdem
+ermöglichen wir den Zugang zu exklusiven Reiseangeboten, die nur für Mitarbeiter im Bereich 
+Touristik verfügbar sind.
+
+Ihr Profil
+''''''''''
+
+* Sie sind erfahren im allgemeinen Bereich Linux Administration (Netzwerk, Server), gute Kenntnisse von Debian sind ein Plus
+* Sie haben bereits Erfahrungen mit Packet-Filter-Firewalls
+* Sie sind vertraut mit VMware (vCenter)
+* Sie sind mit der Handhabung von Konfigurations Management Systemen (Ansible, etc) vertraut
+* Kenntnisse zum  Setup/Wartung von DNS (bind), LDAP (openldap), Webserver (Apache, Nginx), Datenbanken (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) wären eine Bereicherung
+* Erfahrungen mit Script Sprachen (python, perl, sh, python bevorzugt) sind von Vorteil
+* hoch geschätzt währe Sachkenntnis bezüglich der Aufrechterhaltung einer CA Hierarchie (openssl)
+* Sie können in Englisch und Deutsch kommunizieren
+
+.. include:: inc/ueber.rst
+
+Kontakt Information
+'''''''''''''''''''
+
+:Kontakt: Achim Klenz <jk@ypsilon.net> oder Steffen Oschatz <so@ypsilon.net>
+:Telefon: +49 6109 50510
 
 
 .. footer::
