@@ -23,9 +23,9 @@ Requirements
 ''''''''''''
 
 * You are experienced in the Linux network/server administration field in general, good knowledge of Debian system is a plus
-* You possess good knowledge and experience of packet filter firewalls
+* You possess good knowledge and experience of firewalls (iptables/pf/Juniper/Fortigate), VPN (OpenVPN/IPSec) and network layer 2/3 with HP/Juniper
 * You are comfortable with at least one configuration management system (Ansible, etc)
-* You can handle VMware (vCenter)
+* You can handle VMware (vCenter/ESXi)
 * Experience in setup/maintenance of DNS (bind), LDAP(openldap), Webservers(Apache, Nginx), Databases (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) is a plus
 * Knowledge of a scripting language (python, perl, sh, python preferred) for automation/customization would be an asset
 * Experience maintaining a CA hierarchy (openssl) is an advantage

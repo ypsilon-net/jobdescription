@@ -24,8 +24,8 @@ Ihr Profil
 ''''''''''
 
 * Sie sind erfahren im allgemeinen Bereich Linux Administration (Netzwerk, Server), gute Kenntnisse von Debian sind ein Plus
-* Sie haben bereits Erfahrungen mit Packet-Filter-Firewalls
-* Sie sind vertraut mit VMware (vCenter)
+* Sie haben bereits Erfahrungen mit Firewalls (iptables/pf/Juniper/Fortigate) und VPN (OpenVPN/IPSec) sowie Network Layer 2/3 mit HP/Juniper
+* Sie sind vertraut mit VMware (vCenter/ESXi)
 * Sie sind mit der Handhabung von Konfigurations Management Systemen (Ansible, etc) vertraut
 * Kenntnisse zum  Setup/Wartung von DNS (bind), LDAP (openldap), Webserver (Apache, Nginx), Datenbanken (Postgresql, MySQL), mailserver (postfix), POP3/IMAP Servers (dovecot) wären eine Bereicherung
 * Erfahrungen mit Script Sprachen (python, perl, sh, python bevorzugt) sind von Vorteil
