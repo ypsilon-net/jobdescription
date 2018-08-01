@@ -33,6 +33,5 @@ github:
     
 complete: pdf html github
 	rm README.rst
-	#cat inc/header.rst  job_description.rst job_description_php.rst job_description_admin.rst job_beschreibung.rst job_beschreibung_php.rst job_beschreibung_admin.rst inc/footer.rst > README.rst
-	cat docs/gh_job_beschreibung.rst docs/gh_job_beschreibung_php.rst > README.rst
+	cat docs/gh_job_beschreibung.rst empty_line docs/gh_job_beschreibung_php.rst  > README.rst
 	
