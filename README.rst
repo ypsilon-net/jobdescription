@@ -1,5 +1,4 @@
 
-==============================
 Softwaredeveloper Python (m/f)
 ==============================
 
@@ -41,7 +40,6 @@ Contact Info:
 :Phone: +49 6109 5050
 
 
-=========================================
 Experienced Softwaredeveloper PHP (m/f)
 =========================================
 
@@ -81,7 +79,6 @@ Contact Info:
 :Phone: +49 6109 5050
 
 
-===========================
 Network Administrator (m/f)
 ===========================
 
@@ -303,7 +300,6 @@ Telefon
 
 Keine Agenturen!
 
-================================
 Linux System Administrator (m/w)
 ================================
 
