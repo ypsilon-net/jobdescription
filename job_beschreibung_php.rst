@@ -1,16 +1,21 @@
 .. |sprache| replace:: PHP
 
+.. |beschreibung_detail| replace:: Für unsere Frontend Systeme benötigen wir Entwickler welche Spaß daran haben
+                                   mit komplexen, mehrschichtigen Architekturen und Datenbank Systemen
+                                   zu arbeiten.
+
 .. include:: inc/beschreibung.rst
 
 Ihr Profil
 ''''''''''
 
-* Sie haben professionelle Programmiererfahrung mit PHP (mind. ein Jahr)
-* Fundierte JavaScript Kentnisse gehören zu Ihrem Repertoire
+* Sie haben bereits praktische Programmiererfahrung mit PHP
+* JavaScript Kentnisse gehören zu Ihrem Repertoire
+* SQL Kenntnisse sind von Vorteil
 * Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
-* Gute SQL Kenntnisse (MySQL, PostgreSQL) sind vorhanden und grundsätzliche Erfahrung in der Administration von Datenbanken wäre ein Plus
-* Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
-* Sie können in Englisch und Deutsch kommunizieren
+* Sie sind vertraut mit Versionsverwaltung (git)
+* Sie können in Deutsch und/oder Englisch kommunizieren
+* Erfahrung im Bereich Touristik wären hoch geschätzt
 
 .. include:: inc/ueber.rst
 

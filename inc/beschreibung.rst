@@ -7,7 +7,7 @@ Softwareentwickler |sprache| (m/w)
 Beschreibung
 ''''''''''''
 
-Wir suchen nach einem motivierten |sprache| Programmierer der gern unser Team in Leipzig oder Frankfurt a.M  mit seinen Fähigkeiten bereichern, oder diese an hoch interessanten 
+Wir suchen nach einem motivierten |sprache| Programmierer welcher gern unser Team in Leipzig oder Frankfurt a.M  mit seinen Fähigkeiten bereichern, oder diese an hoch interessanten 
 Aufgabenstellungen ausbauen möchte.
 
 |beschreibung_detail|

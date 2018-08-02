@@ -7,9 +7,10 @@ Softwareentwickler Python (m/w)
 Beschreibung
 ~~~~~~~~~~~~
 
-Wir suchen nach einem motivierten Python Programmierer der gern unser
-Team in Leipzig oder Frankfurt a.M mit seinen Fähigkeiten bereichern,
-oder diese an hoch interessanten Aufgabenstellungen ausbauen möchte.
+Wir suchen nach einem motivierten Python Programmierer welcher gern
+unser Team in Leipzig oder Frankfurt a.M mit seinen Fähigkeiten
+bereichern, oder diese an hoch interessanten Aufgabenstellungen ausbauen
+möchte.
 
 Für unsere Backend Systeme benötigen wir Entwickler welche Spaß daran
 haben mit komplexen, verteilten Client-Server Architekturen und

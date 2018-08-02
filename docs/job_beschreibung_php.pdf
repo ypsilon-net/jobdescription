@@ -56,10 +56,10 @@ endobj
   /Type /Page >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:so@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 233.5023 588.7736 302.0123 600.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:so@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 233.5023 507.7736 302.0123 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:sr@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 219.5923 573.7736 285.8723 585.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:sr@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 219.5923 492.7736 285.8723 504.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
 << /Annots [ 12 0 R 13 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.58144731c62be85ccc8ec30db2edd215 9 0 R /FormXob.6c4fbfb43bcde4648b8e6e0d8848696a 7 0 R /FormXob.a9413ba2ed57e52850a10d25d3e398b2 5 0 R /FormXob.cd9261810cb71a75808a86e47266091a 8 0 R /FormXob.db553d9e3b1bdb31b0bbcea18538117b 4 0 R /FormXob.e754d74220382c6171aef472eaaed55e 10 0 R >> >> /Rotate 0 
@@ -69,7 +69,7 @@ endobj
 << /Outlines 17 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog >>
 endobj
 16 0 obj
-<< /Author () /CreationDate (D:20180802144906-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20180802152505-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Softwareentwickler PHP \(m/w\)) >>
 endobj
 17 0 obj
@@ -79,19 +79,19 @@ endobj
 << /Dest [ 11 0 R /XYZ 62.69291 687.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (Beschreibung) >>
 endobj
 19 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 336.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Ihr Profil) >>
+<< /Dest [ 11 0 R /XYZ 62.69291 324.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Ihr Profil) >>
 endobj
 20 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 177.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (\334ber die Firma) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 753.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (\334ber die Firma) >>
 endobj
 21 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 633.0236 0 ] /Parent 17 0 R /Prev 20 0 R /Title (Kontakt Information) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 552.0236 0 ] /Parent 17 0 R /Prev 20 0 R /Title (Kontakt Information) >>
 endobj
 22 0 obj
 << /Count 2 /Kids [ 11 0 R 14 0 R ] /Type /Pages >>
 endobj
 23 0 obj
-<< /Length 7702 >>
+<< /Length 7354 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -118,65 +118,65 @@ q
 1 0 0 1 62.69291 624.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.013555 Tw (Wir suchen nach einem motivierten PHP Programmierer der gern unser Team in Leipzig oder Frankfurt) Tj T* 0 Tw .826342 Tw (a.M mit seinen F\344higkeiten bereichern, oder diese an hoch interessanten Aufgabenstellungen ausbauen) Tj T* 0 Tw (m\366chte.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.844597 Tw (Wir suchen nach einem motivierten PHP Programmierer welcher gern unser Team in Leipzig oder) Tj T* 0 Tw 1.181797 Tw (Frankfurt a.M mit seinen F\344higkeiten bereichern, oder diese an hoch interessanten Aufgabenstellungen) Tj T* 0 Tw (ausbauen m\366chte.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 q
-1 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (|beschreibung_detail|) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.078314 Tw (F\374r unsere Frontend Systeme ben\366tigen wir Entwickler welche Spa\337 daran haben mit komplexen,) Tj T* 0 Tw (mehrschichtigen Architekturen und Datenbank Systemen zu arbeiten.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 516.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 6.139976 Tw (Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem) Tj T* 0 Tw 3.196976 Tw (dynamischen, kreativen und unkomplizierten Umfeld mit flacher Hierarchie, flexibler Arbeitszeit und) Tj T* 0 Tw .808314 Tw (unbefristeten Arbeitsverh\344ltnissen. Obwohl unsere Firma schon sehr lange wohl etabliert in der Branche) Tj T* 0 Tw .709985 Tw (ist, pflegen wir bis heute eine start-up Kultur. Ein offener Umgang vom Auszubildenden bis zum Chef ist) Tj T* 0 Tw 3.105433 Tw (f\374r uns selbstverst\344ndlich. Unsere Alterstruktur ist sehr heterogen und die Herkunftsl\344nder unserer) Tj T* 0 Tw (Mitarbeiter international verteilt.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 438.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.853615 Tw (Unseren Mitarbeitern erm\366glichen wir den Zugang zu exklusiven Reiseangeboten f\374r Touristiker. In) Tj T* 0 Tw .958443 Tw (Kombination mit unsere g\374nstigen Lage an einem der gr\366\337ten Flug-Drehkreuze in Europa ergeben sich) Tj T* 0 Tw 3.027976 Tw (hieraus gro\337artige M\366glichkeiten f\374r Sie. Insbesondere unterhalten wir ausl\344ndische Immobilien mit) Tj T* 0 Tw .80748 Tw (bester Strand- und Stadtlage in einer der beliebtesten Urlaubsregionen, welche wir unseren Mitarbeitern) Tj T* 0 Tw 1.565697 Tw (gerne zeitweilig zur Verf\374gung stellen. Arbeiten am Strand? Mit uns kein Problem. Zudem besteht die) Tj T* 0 Tw (M\366glichkeit die weiteren Standorte der Firma f\374r einen Erfahrungsaustausch zu besuchen.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 396.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.862976 Tw (Zur St\344rkung der sozialen Kontakte organisieren wir gleichfalls verschiedene \(freiwillige\) Aktivit\344ten.) Tj T* 0 Tw 1.386136 Tw (Arbeiten ist nicht alles, mit uns kann man auch an Kart-Meisterschaften, Marathon-L\344ufen, Tennis und) Tj T* 0 Tw 1.382706 Tw (Badmington Treffs, ..., sowie an gelegentlichen geselligen Abenden oder Konzerten unserer Hausband) Tj T* 0 Tw (teilnehmen.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .644651 Tw (Dies und vieles mehr w\374rden wir Ihnen gern anbieten, wenn folgenden Beschreibung auf Sie passt bzw.) Tj T* 0 Tw (Sie sich gern dahingehend entwickeln wollen.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wir freuen uns auf Ihre Bewerbung.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 303.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ihr Profil) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 303.0236 cm
-Q
-q
-1 0 0 1 62.69291 303.0236 cm
+1 0 0 1 62.69291 291.0236 cm
 Q
 q
 1 0 0 1 62.69291 291.0236 cm
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -190,17 +190,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie haben professionelle Programmiererfahrung mit PHP \(mind. ein Jahr\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie haben bereits praktische Programmiererfahrung mit PHP) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 285.0236 cm
 Q
 q
 1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -214,17 +214,41 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fundierte JavaScript Kentnisse geh\366ren zu Ihrem Repertoire) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (JavaScript Kentnisse geh\366ren zu Ihrem Repertoire) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 267.0236 cm
 Q
 q
 1 0 0 1 62.69291 255.0236 cm
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SQL Kenntnisse sind von Vorteil) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -239,30 +263,6 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie f\374hlen sich mit Linux als Entwicklungsumgebung wohl) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 249.0236 cm
-Q
-q
-1 0 0 1 62.69291 225.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.365433 Tw (Gute SQL Kenntnisse \(MySQL, PostgreSQL\) sind vorhanden und grunds\344tzliche Erfahrung in der) Tj T* 0 Tw (Administration von Datenbanken w\344re ein Plus) Tj T* ET
 Q
 Q
 q
@@ -286,7 +286,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie sind vertraut mit \374blichen Versionsverwaltungen, git Kenntnisse sind von Vorteil) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie sind vertraut mit Versionsverwaltung \(git\)) Tj T* ET
 Q
 Q
 q
@@ -310,27 +310,38 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie k\366nnen in Englisch und Deutsch kommunizieren) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sie k\366nnen in Deutsch und/oder Englisch kommunizieren) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 189.0236 cm
+1 0 0 1 62.69291 183.0236 cm
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 171.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\334ber die Firma) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 102.0236 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .335697 Tw (Die Ypsilon Gruppe ist ein seit 1994 global agierender Anbieter modularer Infrastrukturen f\374r die Touristik) Tj T* 0 Tw .681318 Tw (und Payment Industrie. F\374r unsere weltweiten Kunden in \374ber 20 L\344ndern betreuen wir mehr als 90.000) Tj T* 0 Tw .86122 Tw (Agenten. Dazu geh\366ren unter anderen Fluggesellschaften, Flugh\344fen, Ticket-Gro\337h\344ndler, Reiseportale,) Tj T* 0 Tw (Agenturen und Ketten, Versicherungen, Hotel und Mietwagen Anbieter etc.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Erfahrung im Bereich Touristik w\344ren hoch gesch\344tzt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -376,41 +387,54 @@ Q
 endstream
 endobj
 24 0 obj
-<< /Length 3439 >>
+<< /Length 4133 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\334ber die Firma) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .335697 Tw (Die Ypsilon Gruppe ist ein seit 1994 global agierender Anbieter modularer Infrastrukturen f\374r die Touristik) Tj T* 0 Tw .681318 Tw (und Payment Industrie. F\374r unsere weltweiten Kunden in \374ber 20 L\344ndern betreuen wir mehr als 90.000) Tj T* 0 Tw .86122 Tw (Agenten. Dazu geh\366ren unter anderen Fluggesellschaften, Flugh\344fen, Ticket-Gro\337h\344ndler, Reiseportale,) Tj T* 0 Tw (Agenturen und Ketten, Versicherungen, Hotel und Mietwagen Anbieter etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .413555 Tw (Dabei tritt Ypsilon sowohl als Anbieter sowie auch als Kooperationspartner mit diesen auf. Von einfachen) Tj T* 0 Tw 8.052196 Tw (Plugin L\366sungen, \374ber Komplett-Hosting und Produkt \374bergreifenden Schnittstellen bis zu) Tj T* 0 Tw .574524 Tw (Kundenportalen und Backoffice Systemen bieten wir ein umfassendes Angebot. Neben den touristischen) Tj T* 0 Tw 3.862706 Tw (Merkmalen bieten wir gleichfalls Branchen unabh\344ngige Services f\374r unsere Payment und Fraud) Tj T* 0 Tw (Prevention Systeme.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 663.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .705366 Tw (Die Firmenzentrale befindet sich in Frankfurt am Main mit zus\344tzlichen Standorten in Leipzig, Dortmund,) Tj T* 0 Tw (Breslau \(Polen\) und Burgess Hill \(England\), Palma de Mallorca \(Spanien\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ypsilon.net ist f\374r den sicheren Umgang mit Kundenzahlungsdaten der Stufe PCI DSS Level 1 zertifiziert.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Kontakt Information) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 62.69291 519.0236 cm
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -430,7 +454,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 570.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -450,7 +474,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -471,7 +495,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 537.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Keine Agenturen!) Tj T* ET
@@ -555,15 +579,15 @@ xref
 0000242746 00000 n
 0000242870 00000 n
 0000242941 00000 n
-0000250700 00000 n
-0000254196 00000 n
-0000254249 00000 n
-0000254286 00000 n
+0000250352 00000 n
+0000254542 00000 n
+0000254595 00000 n
+0000254632 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(=\245\277\037\035\332\214\015\262"\203\014\306C\241\342) (=\245\277\037\035\332\214\015\262"\203\014\306C\241\342)]
+ [(\004<\253\335\260O'p\030\376R\313\233\232\375\264) (\004<\253\335\260O'p\030\376R\313\233\232\375\264)]
  /Info 16 0 R /Root 15 0 R /Size 28 >>
 startxref
-254323
+254669
 %%EOF
