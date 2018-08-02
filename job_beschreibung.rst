@@ -5,14 +5,15 @@
 Ihr Profil
 ''''''''''
 
-* Sie haben ein solides Verständnis für Objekt-orientierte Programmierung mit fundierter Erfahrung im Bereich Softwareentwicklung, Python Kenntnisse sind wünschenswert
+* Python ist Ihre erste Wahl
+* Sie kennen sich mit Objekt-orientierter Programmierung aus und haben bereits Erfahrung im Bereich Softwareentwicklung
+* Erfahrung mit asynchroner Programmierung (z.B. Twisted) wäre eine Bereicherung
+* SQL/NoSQL Kenntnisse sind von Vorteil
+* Sie kenne sich mit XML aus und sind in der Lage entsprechende Daten zu parsen und zu erstellen
 * Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
-* Erfahrung mit asynchroner Netzwerkprogrammierung für verteilte Systeme wie Twisted Python wäre eine Bereicherung
-* Gute SQL Kenntnisse (PostgreSQL) und grundsätzliche Erfahrung in der Administration von Datenbanken wäre ein Plus
-* Sie sollten XML verstehen können und in der Lage sein, entsprechende Daten zu parsen und zu erstellen
-* Sie sind vertraut mit üblichen Versionsverwaltungen, git Kenntnisse sind von Vorteil
-* Sie können in Englisch und Deutsch kommunizieren
-* Erfahrung im Bereich Zahlungssysteme beziehungsweise Fraud Erkennung wären hoch geschätzt
+* Sie sind vertraut mit Versionsverwaltung (git)
+* Sie können in Deutsch und/oder Englisch kommunizieren
+* Erfahrung im Bereich Touristik, Zahlungssysteme oder Fraud Erkennung wären hoch geschätzt
 
 .. include:: inc/ueber.rst
 
