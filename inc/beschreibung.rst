@@ -10,6 +10,8 @@ Beschreibung
 Wir suchen nach einem motivierten |sprache| Programmierer der gern unser Team in Leipzig oder Frankfurt a.M  mit seinen Fähigkeiten bereichern, oder diese an hoch interessanten 
 Aufgabenstellungen ausbauen möchte.
 
+|beschreibung_detail|
+
 Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit flacher Hierarchie, flexibler Arbeitszeit und unbefristeten Arbeitsverhältnissen. 
 Obwohl unsere Firma schon sehr lange wohl etabliert in der Branche ist, pflegen wir bis heute eine start-up Kultur.
 Ein offener Umgang vom Auszubildenden bis zum Chef ist für uns selbstverständlich.

@@ -56,10 +56,10 @@ endobj
   /Type /Page >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:jk@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 217.9223 684.7736 283.0923 696.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:jk@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 217.9223 588.7736 283.0923 600.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:so@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 394.2723 684.7736 462.7823 696.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:so@ypsilon.net) >> /Border [ 0 0 0 ] /Rect [ 394.2723 588.7736 462.7823 600.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
 << /Annots [ 12 0 R 13 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.58144731c62be85ccc8ec30db2edd215 9 0 R /FormXob.6c4fbfb43bcde4648b8e6e0d8848696a 7 0 R /FormXob.a9413ba2ed57e52850a10d25d3e398b2 5 0 R /FormXob.cd9261810cb71a75808a86e47266091a 8 0 R /FormXob.db553d9e3b1bdb31b0bbcea18538117b 4 0 R /FormXob.e754d74220382c6171aef472eaaed55e 10 0 R >> >> /Rotate 0 
@@ -69,7 +69,7 @@ endobj
 << /Outlines 17 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog >>
 endobj
 16 0 obj
-<< /Author () /CreationDate (D:20180802132925-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20180802144907-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Linux System Administrator \(m/w\)) >>
 endobj
 17 0 obj
@@ -85,13 +85,13 @@ endobj
 << /Dest [ 11 0 R /XYZ 62.69291 171.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (\334ber die Firma) >>
 endobj
 21 0 obj
-<< /Dest [ 14 0 R /XYZ 62.69291 729.0236 0 ] /Parent 17 0 R /Prev 20 0 R /Title (Kontaktinformationen) >>
+<< /Dest [ 14 0 R /XYZ 62.69291 633.0236 0 ] /Parent 17 0 R /Prev 20 0 R /Title (Kontaktinformationen) >>
 endobj
 22 0 obj
 << /Count 2 /Kids [ 11 0 R 14 0 R ] /Type /Pages >>
 endobj
 23 0 obj
-<< /Length 8263 >>
+<< /Length 8218 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -367,17 +367,10 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\334ber die Firma) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 120.0236 cm
+1 0 0 1 62.69291 96.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.687674 Tw (Ypsilon ist ein globaler Anbieter modularer Infrastrukturen f\374r die Touristik und Payment Industrie. Mit) Tj T* 0 Tw (Kunden in \374ber 20 L\344ndern weltweit betreuen wir mehr als 90.000 Agenten.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 90.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .705366 Tw (Die Firmenzentrale befindet sich in Frankfurt am Main mit zus\344tzlichen Standorten in Leipzig, Dortmund,) Tj T* 0 Tw (Breslau \(Polen\) und Burgess Hill \(England\), Palma de Mallorca \(Spanien\).) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .335697 Tw (Die Ypsilon Gruppe ist ein seit 1994 global agierender Anbieter modularer Infrastrukturen f\374r die Touristik) Tj T* 0 Tw .681318 Tw (und Payment Industrie. F\374r unsere weltweiten Kunden in \374ber 20 L\344ndern betreuen wir mehr als 90.000) Tj T* 0 Tw .86122 Tw (Agenten. Dazu geh\366ren unter anderen Fluggesellschaften, Flugh\344fen, Ticket-Gro\337h\344ndler, Reiseportale,) Tj T* 0 Tw (Agenturen und Ketten, Versicherungen, Hotel und Mietwagen Anbieter etc.) Tj T* ET
 Q
 Q
 q
@@ -424,27 +417,41 @@ Q
 endstream
 endobj
 24 0 obj
-<< /Length 2228 >>
+<< /Length 3153 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 741.0236 cm
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .413555 Tw (Dabei tritt Ypsilon sowohl als Anbieter sowie auch als Kooperationspartner mit diesen auf. Von einfachen) Tj T* 0 Tw 8.052196 Tw (Plugin L\366sungen, \374ber Komplett-Hosting und Produkt \374bergreifenden Schnittstellen bis zu) Tj T* 0 Tw .574524 Tw (Kundenportalen und Backoffice Systemen bieten wir ein umfassendes Angebot. Neben den touristischen) Tj T* 0 Tw 3.862706 Tw (Merkmalen bieten wir gleichfalls Branchen unabh\344ngige Services f\374r unsere Payment und Fraud) Tj T* 0 Tw (Prevention Systeme.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .705366 Tw (Die Firmenzentrale befindet sich in Frankfurt am Main mit zus\344tzlichen Standorten in Leipzig, Dortmund,) Tj T* 0 Tw (Breslau \(Polen\) und Burgess Hill \(England\), Palma de Mallorca \(Spanien\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ypsilon.net ist f\374r den sicheren Umgang mit Kundenzahlungsdaten der Stufe PCI DSS Level 1 zertifiziert.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 708.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Kontaktinformationen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 696.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 585.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -464,7 +471,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -485,7 +492,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 552.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Keine Agenturen!) Tj T* ET
@@ -569,15 +576,15 @@ xref
 0000242750 00000 n
 0000242875 00000 n
 0000242946 00000 n
-0000251266 00000 n
-0000253551 00000 n
-0000253604 00000 n
-0000253641 00000 n
+0000251221 00000 n
+0000254431 00000 n
+0000254484 00000 n
+0000254521 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\300\016o\227\374\221\022\345`7\366T\342%\256K) (\300\016o\227\374\221\022\345`7\366T\342%\256K)]
+ [(7!\202qQ\246\034-\354@Ev\020\313\025w) (7!\202qQ\246\034-\354@Ev\020\313\025w)]
  /Info 16 0 R /Root 15 0 R /Size 28 >>
 startxref
-253678
+254558
 %%EOF
