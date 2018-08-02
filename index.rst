@@ -1,5 +1,4 @@
 
-===============
 Stellenangebote
 ===============
 
@@ -11,7 +10,6 @@ Stellenangebote
 .. include:: inc/ueber.rst
 
 
-==========
 Job offers
 ==========
 

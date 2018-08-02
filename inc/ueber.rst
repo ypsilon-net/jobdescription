@@ -2,12 +2,15 @@
 Über die Firma
 ''''''''''''''
 
-Ypsilon ist ein globaler Anbieter modularer Infrastrukturen für die Touristik Industrie 
-einschließlich Fluglinien, Consolidator, Reise Anbieter und Reisebüros. Mit Kunden in 
-über 20 Ländern weltweit betreuen wir mehr als 90.000 internetbasierende Agenten. 
-Die Firmenzentrale befindet sich in Frankfurt am Main mit zusätzlichen Entwicklungs-Standorten 
-in Leipzig (Deutschland) und Breslau (Polen) und außerdem einem 
-Verkaufs- und Kundendienst-Team in Burgess Hill (United Kingdom). 
+Die Ypsilon Gruppe ist ein seit 1994 global agierender Anbieter modularer Infrastrukturen für die Touristik und Payment Industrie.
+Für unsere weltweiten Kunden in über 20 Ländern betreuen wir mehr als 90.000 Agenten. Dazu gehören unter anderen Fluggesellschaften,
+Flughäfen, Ticket-Großhändler, Reiseportale, Agenturen und Ketten, Versicherungen, Hotel und Mietwagen Anbieter etc. 
 
-Ypsilon.net ist als eine der wenigen Firmen in der Touristik für den sicheren Umgang mit Kundenzahlungsdaten PCI DSS level 1 zertifiziert.
+Dabei tritt Ypsilon sowohl als Anbieter sowie auch als Kooperationspartner mit diesen auf. Von einfachen Plugin Lösungen, über
+Komplett-Hosting und Produkt übergreifenden Schnittstellen bis zu Kundenportalen und Backoffice Systemen bieten wir ein umfassendes Angebot.
+Neben den touristischen Merkmalen bieten wir gleichfalls Branchen unabhängige Services für unsere Payment und Fraud Prevention Systeme.
 
+Die Firmenzentrale befindet sich in Frankfurt am Main mit zusätzlichen Standorten 
+in Leipzig, Dortmund, Breslau (Polen) und Burgess Hill (England), Palma de Mallorca (Spanien). 
+
+Ypsilon.net ist für den sicheren Umgang mit Kundenzahlungsdaten der Stufe PCI DSS Level 1 zertifiziert.
