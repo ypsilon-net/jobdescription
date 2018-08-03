@@ -28,8 +28,8 @@ pdf:
 	cat inc/header.rst job_description_admin.rst inc/footer.rst | rst2pdf > docs/job_description_admin.pdf
 
 github:
-	cat inc/beschreibung.rst job_beschreibung.rst inc/ueber.rst inc/kontakt.rst | pandoc -f rst -t rst > docs/gh_job_beschreibung.rst
-	cat inc/beschreibung.rst job_beschreibung_php.rst inc/ueber.rst inc/kontakt.rst | pandoc -f rst -t rst > docs/gh_job_beschreibung_php.rst
+	cat inc/beschreibung.rst job_beschreibung.rst inc/ueber.rst empty_line inc/kontakt.rst | pandoc -f rst -t rst > docs/gh_job_beschreibung.rst
+	cat inc/beschreibung.rst job_beschreibung_php.rst inc/ueber.rst empty_line inc/kontakt.rst | pandoc -f rst -t rst > docs/gh_job_beschreibung_php.rst
     
 complete: pdf html github
 	rm README.rst

@@ -87,8 +87,10 @@ Standorten in Leipzig, Dortmund, Breslau (Polen) und Burgess Hill
 (England), Palma de Mallorca (Spanien).
 
 Ypsilon.net ist für den sicheren Umgang mit Kundenzahlungsdaten der
-Stufe PCI DSS Level 1 zertifiziert. Kontakt Information
-'''''''''''''''''''
+Stufe PCI DSS Level 1 zertifiziert.
+
+Kontakt Information
+~~~~~~~~~~~~~~~~~~~
 
 Frankfurt a.M.
     Steffen Oschatz <so@ypsilon.net\ >
