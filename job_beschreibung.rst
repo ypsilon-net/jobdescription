@@ -1,7 +1,7 @@
 .. |sprache| replace:: Python
 
 .. |beschreibung_detail| replace:: Für unsere Backend Systeme benötigen wir Entwickler welche Spaß daran haben
-                                   mit komplexen, verteilten Client-Server Architekturen und Datenbank Systemen
+                                   mit komplexen, verteilten Client-Server Architekturen und Datenbanksystemen
                                    zu arbeiten.
 
 .. include:: inc/beschreibung.rst

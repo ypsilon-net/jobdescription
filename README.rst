@@ -165,7 +165,7 @@ möchte.
 
 Für unsere Backend Systeme benötigen wir Entwickler welche Spaß daran
 haben mit komplexen, verteilten Client-Server Architekturen und
-Datenbank Systemen zu arbeiten.
+Datenbanksystemen zu arbeiten.
 
 Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software
 Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit
@@ -270,8 +270,8 @@ Team in Leipzig oder Frankfurt a.M mit seinen Fähigkeiten bereichern,
 oder diese an hoch interessanten Aufgabenstellungen ausbauen möchte.
 
 Für unsere Frontend Systeme benötigen wir Entwickler welche Spaß daran
-haben mit komplexen, mehrschichtigen Architekturen und Datenbank
-Systemen zu arbeiten.
+haben mit komplexen, mehrschichtigen Architekturen und Datenbanksystemen
+zu arbeiten.
 
 Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software
 Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit

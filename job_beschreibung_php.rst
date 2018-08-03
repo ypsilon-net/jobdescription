@@ -1,7 +1,7 @@
 .. |sprache| replace:: PHP
 
 .. |beschreibung_detail| replace:: Für unsere Frontend Systeme benötigen wir Entwickler welche Spaß daran haben
-                                   mit komplexen, mehrschichtigen Architekturen und Datenbank Systemen
+                                   mit komplexen, mehrschichtigen Architekturen und Datenbanksystemen
                                    zu arbeiten.
 
 .. include:: inc/beschreibung.rst

@@ -14,7 +14,7 @@ möchte.
 
 Für unsere Backend Systeme benötigen wir Entwickler welche Spaß daran
 haben mit komplexen, verteilten Client-Server Architekturen und
-Datenbank Systemen zu arbeiten.
+Datenbanksystemen zu arbeiten.
 
 Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software
 Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit
