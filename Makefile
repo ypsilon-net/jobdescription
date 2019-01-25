@@ -30,8 +30,8 @@ pdf:
 github:
 	pandoc job_beschreibung.rst -o docs/gh_job_beschreibung.rst
 	pandoc job_beschreibung_php.rst -o docs/gh_job_beschreibung_php.rst
-    
-complete: pdf html github
+
+readme:
 	rm README.rst
 	cat job_description.rst \
 		empty_line \
@@ -44,4 +44,6 @@ complete: pdf html github
 		docs/gh_job_beschreibung_php.rst \
 		empty_line \
 		job_beschreibung_admin.rst > README.rst
+    
+complete: pdf html github readme
 	
