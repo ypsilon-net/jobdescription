@@ -7,27 +7,18 @@ Softwareentwickler |sprache| (m/w)
 Beschreibung
 ''''''''''''
 
-Wir suchen nach einem motivierten |sprache| Programmierer welcher gern unser Team in Leipzig oder Frankfurt a.M  mit seinen Fähigkeiten bereichern, oder diese an hoch interessanten 
-Aufgabenstellungen ausbauen möchte.
+Du hast Spaß an komplexen verteilten Client-Server Architekturen und Datenbanksystemen zu arbeiten?
 
-|beschreibung_detail|
+Du bist ein motivierter |sprache| Programmierer der seine Fähigkeiten gerne an hoch interessanten Aufgabenstellungen gemeinsam mit dem Team weiter entwickeln möchte?
 
-Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit flacher Hierarchie, flexibler Arbeitszeit und unbefristeten Arbeitsverhältnissen. 
-Obwohl unsere Firma schon sehr lange wohl etabliert in der Branche ist, pflegen wir bis heute eine start-up Kultur.
-Ein offener Umgang vom Auszubildenden bis zum Chef ist für uns selbstverständlich.
-Unsere Alterstruktur ist sehr heterogen und die Herkunftsländer unserer Mitarbeiter international verteilt.
+Dann würden wir Dich gerne kennen lernen!
 
-Unseren Mitarbeitern ermöglichen wir den Zugang zu exklusiven Reiseangeboten für Touristiker.
-In Kombination mit unsere günstigen Lage an einem der größten Flug-Drehkreuze in Europa ergeben sich hieraus großartige Möglichkeiten für Sie.
-Insbesondere unterhalten wir ausländische Immobilien mit bester Strand- und Stadtlage in einer der beliebtesten Urlaubsregionen,
-welche wir unseren Mitarbeitern gerne zeitweilig zur Verfügung stellen. Arbeiten am Strand? Mit uns kein Problem.
-Zudem besteht die Möglichkeit die weiteren Standorte der Firma für einen Erfahrungsaustausch zu besuchen.
+Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software Projekte in einem dynamischen,
+kreativen und unkomplizierten Umfeld mit flacher Hierarchie, flexibler Arbeitszeit und unbefristeten 
+Arbeitsverhältnissen. Obwohl unsere Firma schon sehr lange wohl etabliert in der Reiseindustrie ist, pflegen wir bis heute auch als Marktführer noch eine start-up Kultur. Ein offener Umgang vom Auszubildenden bis zum Chef ist für uns selbstverständlich. Unsere Altersstruktur ist sehr heterogen und die Herkunftsländer unserer Mitarbeiter international verteilt.
 
+Arbeiten am Strand? Mit uns kein Problem! Firmeneigene Wohnungen mit bester Strand- und Stadtlage stellen wir unseren Mitarbeitern gerne zeitweilig kostenlos zur Verfügung.
 
-Zur Stärkung der sozialen Kontakte organisieren wir gleichfalls verschiedene (freiwillige) Aktivitäten. 
-Arbeiten ist nicht alles, mit uns kann man auch an Kart-Meisterschaften, Marathon-Läufen, Tennis und Badmington Treffs, ..., sowie an gelegentlichen geselligen Abenden oder Konzerten unserer Hausband teilnehmen. 
+Zur Stärkung der sozialen Kontakte organisieren wir verschiedene (freiwillige) Aktivitäten. Arbeiten ist nicht alles, mit uns kann man auch an Kart-Meisterschaften, Marathon-Läufen, Tennis und Badminton Treffs, ..., sowie an gelegentlichen geselligen Abenden oder Konzerten unserer Hausband teilnehmen.
 
-Dies und vieles mehr würden wir Ihnen gern anbieten, wenn folgenden Beschreibung auf Sie passt bzw. Sie sich gern dahingehend entwickeln wollen.
-
-Wir freuen uns auf Ihre Bewerbung.
-
+Wir freuen uns auf Deine Bewerbung für einen der beiden Entwicklungsstandorte in Frankfurt a.M. oder Leipzig!
