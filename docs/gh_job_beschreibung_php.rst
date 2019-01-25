@@ -1,5 +1,5 @@
-Softwareentwickler (m/w)
-========================
+Softwareentwickler PHP (m/w)
+============================
 
 `Ypsilon.NET AG <http://www.ypsilon.net>`__ (Frankfurt a.M. / Leipzig, Deutschland)
 -----------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Beschreibung
 Du hast Spaß an komplexen verteilten Client-Server Architekturen und
 Datenbanksystemen zu arbeiten?
 
-Du bist ein motivierter Programmierer der seine Fähigkeiten gerne an
+Du bist ein motivierter PHP Programmierer der seine Fähigkeiten gerne an
 hoch interessanten Aufgabenstellungen gemeinsam mit dem Team weiter
 entwickeln möchte?
 
@@ -37,7 +37,7 @@ Treffs, ..., sowie an gelegentlichen geselligen Abenden oder Konzerten
 unserer Hausband teilnehmen.
 
 Wir freuen uns auf Deine Bewerbung für einen der beiden
-Entwicklungsstandorte in Frankfurt a.M. oder Leipzig! .. replace:: PHP
+Entwicklungsstandorte in Frankfurt a.M. oder Leipzig!
 
 Dein Profil
 ~~~~~~~~~~~
@@ -77,12 +77,12 @@ Kontakt Information
 ~~~~~~~~~~~~~~~~~~~
 
 Frankfurt a.M.
-    Steffen Oschatz <so@ypsilon.net>
+   Steffen Oschatz <so@ypsilon.net>
 
 Leipzig
-    Sven Richter <sr@ypsilon.net>
+   Sven Richter <sr@ypsilon.net>
 
 Telefon
-    +49 6109 5050
+   +49 6109 5050
 
 Keine Agenturen!
