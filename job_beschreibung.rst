@@ -1,23 +1,17 @@
 .. |sprache| replace:: Python
 
-.. |beschreibung_detail| replace:: Für unsere Backend Systeme benötigen wir Entwickler welche Spaß daran haben
-                                   mit komplexen, verteilten Client-Server Architekturen und Datenbanksystemen
-                                   zu arbeiten.
-
 .. include:: inc/beschreibung.rst
 
-Ihr Profil
-''''''''''
+Dein Profil
+'''''''''''
 
-* Python ist Ihre erste Wahl
-* Sie kennen sich mit Objekt-orientierter Programmierung aus und haben bereits Erfahrung im Bereich Softwareentwicklung
-* Erfahrung mit asynchroner Programmierung (z.B. Twisted) wäre eine Bereicherung
+* Python ist Deine erste Wahl bei Programmiersprachen
+* Du kennst Dich mit Objekt-orientierter Programmierung aus und hast bereits Erfahrung im Bereich Softwareentwicklung
 * SQL/NoSQL Kenntnisse sind von Vorteil
-* Sie kenne sich mit XML aus und sind in der Lage entsprechende Daten zu parsen und zu erstellen
-* Sie fühlen sich mit Linux als Entwicklungsumgebung wohl
-* Sie sind vertraut mit Versionsverwaltung (git)
-* Sie können in Deutsch und/oder Englisch kommunizieren
-* Erfahrung im Bereich Touristik, Zahlungssysteme oder Fraud Erkennung wären hoch geschätzt
+* XML und git sind kein Fremdwort
+* Du fühlst Dich mit Linux als Entwicklungsumgebung wohl
+* Du kannst in Deutsch und/oder Englisch kommunizieren
+* Erfahrungen im Bereich Touristik, Zahlungssysteme oder Betrugserkennung sind hilfreich aber nicht Voraussetzung
 
 .. include:: inc/ueber.rst
 
