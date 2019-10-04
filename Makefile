@@ -7,7 +7,7 @@ complete: pdf html github readme
 # HTML 
 docs/%.html: %.rst $(HEAD_FOOT) 
 	cat inc/header.rst $< inc/footer.rst | rst2html > $@
-html: docs/job_beschreibung.html docs/job_beschreibung_admin.html docs/job_beschreibung_php.html docs/job_description.html docs/job_description_admin.html docs/job_description_php.html
+html: docs/job_beschreibung.html docs/job_beschreibung_admin.html docs/job_beschreibung_php.html docs/job_description.html docs/job_description_admin.html docs/job_description_php.html docs/index.html
 
 # PDF
 docs/%.pdf: %.rst $(HEAD_FOOT) 
