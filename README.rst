@@ -348,59 +348,78 @@ Position die sich auf die Betreuung und Wartung der
 Netzwerk-Infrastruktur, der Server Hardware/Software sowie deren Setup
 konzentriert.
 
-Wir bieten ein unbefristetes Arbeitsverhältnis mit flexiblen
-Arbeitszeiten. Außerdem ermöglichen wir den Zugang zu exklusiven
-Reiseangeboten, die nur für Mitarbeiter im Bereich Touristik verfügbar
-sind.
+Wir bieten eine Vielzahl faszinierender und abwechslungsreicher Software
+Projekte in einem dynamischen, kreativen und unkomplizierten Umfeld mit
+flacher Hierarchie, flexibler Arbeitszeit und unbefristeten
+Arbeitsverhältnissen. Obwohl unsere Firma schon sehr lange wohl
+etabliert in der Reiseindustrie ist, pflegen wir bis heute auch als
+Marktführer noch eine start-up Kultur. Ein offener Umgang vom
+Auszubildenden bis zum Chef ist für uns selbstverständlich. Unsere
+Altersstruktur ist sehr heterogen und die Herkunftsländer unserer
+Mitarbeiter international verteilt.
 
-In Kombination mit unserer günstigen Lage an einem der größten
-Flug-Drehkreuze in Europa ergeben sich hieraus faszinierende
-Möglichkeiten für Sie. Insbesondere unterhalten wir Immobilien im
-Ausland, mit bester Strandlage in einer der beliebtesten
-Urlaubsregionen, welche wir unseren Mitarbeitern gerne temporär zur
-Verfügung stellen. Arbeiten am Strand? Mit uns kein Problem.
-
-Obwohl unsere Firma ein "alter Hase" in der Branche ist, pflegen wir
-eine Start-Up Kultur. Ein offener Umgang vom Auszubildenden bis zum Chef
-ist für uns selbstverständlich - bei Nachnamen müssen wir erst
-überlegen. Unsere Altersstruktur ist sehr heterogen - wir lassen unsere
-guten Mitarbeiter nicht im Regen stehen. Hire and fire ist bei uns keine
-etablierte Praxis.
+Arbeiten am Strand? Mit uns kein Problem! Firmeneigene Wohnungen mit
+bester Strand- und Stadtlage stellen wir unseren Mitarbeitern gerne
+zeitweilig kostenlos zur Verfügung.
 
 Zur Stärkung der sozialen Kontakte organisieren wir verschiedene
-(freiwillige) Teamevents. Arbeiten ist nicht alles, mit uns kann man
-auch an Kart-Meisterschaften, Marathon-Läufen, Tennis- und
-Badminton-Treffs, sowie gelegentlichen geselligen Abenden oder auch an
-Konzerten unserer Hausband teilnehmen.
+(freiwillige) Aktivitäten. Arbeiten ist nicht alles, mit uns kann man
+auch an Kart-Meisterschaften, Marathon-Läufen, Tennis und Badminton
+Treffs, ..., sowie an gelegentlichen geselligen Abenden oder Konzerten
+unserer Hausband teilnehmen.
 
 Dies und vieles mehr würden wir Dir gerne anbieten, wenn Dich folgende
 Beschreibung anspricht. Wir freuen uns auf Deine Bewerbung.
 
-Ihr Profil
-~~~~~~~~~~
+Dein Profil
+~~~~~~~~~~~
 
--  Sie sind erfahren im allgemeinen Bereich Linux-Administration
+-  Du bist erfahren im allgemeinen Bereich Linux-Administration
    (Netzwerk, Server), gute Kenntnisse von Debian sind ein Plus
--  Sie haben bereits Erfahrungen mit Firewalls und VPN sowie Network
-   Layer 2/3
--  Sie sind vertraut mit Virtualisierungen
--  Sie sind mit der Handhabung von Konfigurations-Management-Systemen
+-  Du hast bereits Erfahrungen mit Firewalls und VPN sowie Network Layer
+   2/3
+-  Du bist kennst Dich mit Virtualisierung aus
+-  Du bist mit der Handhabung von Konfigurations-Management-Systemen
    vertraut
 -  Kenntnisse zum Setup/Wartung von DNS, IDM, Webservern, Datenbanken,
    Mailservern wären eine Bereicherung
 -  Erfahrungen mit Script Sprachen (Python, Shell) sind von Vorteil
 -  Hochgeschätzt wären Sachkenntnise bezüglich der Aufrechterhaltung
    einer CA-Hierarchie
--  Sie können in Englisch und Deutsch kommunizieren
+-  Du kannst in Deutsch und/oder Englisch kommunizieren
 
-Kontaktinformationen
-~~~~~~~~~~~~~~~~~~~~
+Über die Firma
+~~~~~~~~~~~~~~
 
-Kontakt
-    Achim Klenz <jk@ypsilon.net\ > oder Steffen Oschatz
-    <so@ypsilon.net\ >
+Die Ypsilon Gruppe ist ein seit 1994 global agierender Anbieter
+modularer Infrastrukturen für die Touristik und Payment Industrie. Für
+unsere weltweiten Kunden in über 20 Ländern betreuen wir mehr als 90.000
+Agenten. Dazu gehören unter anderem Fluggesellschaften, Flughäfen,
+Ticket-Großhändler, Reiseportale, Agenturen und Ketten, Versicherungen,
+Hotel und Mietwagen Anbieter etc.
+
+Dabei tritt Ypsilon sowohl als Anbieter sowie auch als
+Kooperationspartner auf. Von einfachen Plugin Lösungen, über
+Komplett-Hosting und Produkt übergreifenden Schnittstellen bis zu
+Kundenportalen und Backoffice Systemen bieten wir eine umfassende
+Produktpalette. Neben den touristischen Merkmalen bieten wir gleichfalls
+Branchen unabhängige Services für unsere Payment und
+Betrugsbekämpfungs-Systeme.
+
+Die Firmenzentrale befindet sich in Frankfurt am Main mit zusätzlichen
+Standorten in Leipzig, Dortmund, Breslau (Polen) und Burgess Hill
+(England), Palma de Mallorca (Spanien).
+
+Kontakt Information
+~~~~~~~~~~~~~~~~~~~
+
+Frankfurt a.M.
+   Steffen Oschatz <so@ypsilon.net>
+
+Leipzig
+   Sven Richter <sr@ypsilon.net>
 
 Telefon
-    +49 6109 50510
+   +49 6109 5050
 
 Keine Agenturen!
