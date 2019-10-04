@@ -1,38 +1,25 @@
 .PHONY: clean-pyc clean-build docs
 
-help:
-	@echo "clean - remove all generated files"
-	@echo "pdf - build all pdf"
-	@echo "complete - build merged doc"
+HEAD_FOOT=inc/header.rst inc/footer.rst inc/allgemein.rst
 
-clean: 
-	rm *.pdf
-	rm docs/job*.pdf
-	rm docs/job*.html
-	
-html: 
-	cat inc/header.rst job_beschreibung.rst inc/footer.rst | rst2html > docs/job_beschreibung.html
-	cat inc/header.rst job_beschreibung_php.rst inc/footer.rst | rst2html > docs/job_beschreibung_php.html
-	cat inc/header.rst job_beschreibung_admin.rst inc/footer.rst | pandoc -f rst -t html > docs/job_beschreibung_admin.html
-	cat inc/header.rst job_description.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description.html
-	cat inc/header.rst job_description_php.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description_php.html
-	cat inc/header.rst job_description_admin.rst inc/footer.rst | pandoc -f rst -t html > docs/job_description_admin.html
-	cat inc/header.rst index.rst inc/footer.rst | pandoc -f rst -t html > docs/index.html
+complete: pdf html github readme
 
-pdf: 
-	cat inc/header.rst job_beschreibung.rst inc/footer.rst | rst2pdf > docs/job_beschreibung.pdf
-	cat inc/header.rst job_description.rst inc/footer.rst | rst2pdf > docs/job_description.pdf
-	cat inc/header.rst job_beschreibung_php.rst inc/footer.rst | rst2pdf > docs/job_beschreibung_php.pdf
-	cat inc/header.rst job_description_php.rst inc/footer.rst | rst2pdf > docs/job_description_php.pdf
-	cat inc/header.rst job_beschreibung_admin.rst inc/footer.rst | rst2pdf > docs/job_beschreibung_admin.pdf
-	cat inc/header.rst job_description_admin.rst inc/footer.rst | rst2pdf > docs/job_description_admin.pdf
+# HTML 
+docs/%.html: %.rst $(HEAD_FOOT) 
+	cat inc/header.rst $< inc/footer.rst | rst2html > $@
+html: docs/job_beschreibung.html docs/job_beschreibung_admin.html docs/job_beschreibung_php.html docs/job_description.html docs/job_description_admin.html docs/job_description_php.html
 
-github:
-	pandoc job_beschreibung.rst -o docs/gh_job_beschreibung.rst
-	pandoc job_beschreibung_php.rst -o docs/gh_job_beschreibung_php.rst
+# PDF
+docs/%.pdf: %.rst $(HEAD_FOOT) 
+	cat inc/header.rst $< inc/footer.rst | rst2pdf > $@
+pdf: docs/job_beschreibung.pdf docs/job_beschreibung_admin.pdf docs/job_beschreibung_php.pdf docs/job_description.pdf docs/job_description_admin.pdf docs/job_description_php.pdf
 
-readme:
-	rm README.rst
+# rst to rst for includes in github
+docs/gh_%.rst: %.rst 
+	pandoc $< -o $@
+github: docs/gh_job_beschreibung.rst docs/gh_job_beschreibung_php.rst docs/gh_job_beschreibung_admin.rst
+
+README.rst: job_description.rst job_description_php.rst job_description_admin.rst docs/gh_job_beschreibung.rst docs/gh_job_beschreibung_php.rst docs/gh_job_beschreibung_admin.rst
 	cat job_description.rst \
 		empty_line \
 		job_description_php.rst \
@@ -43,7 +30,15 @@ readme:
 		empty_line \
 		docs/gh_job_beschreibung_php.rst \
 		empty_line \
-		job_beschreibung_admin.rst > README.rst
-    
-complete: pdf html github readme
-	
+		docs/gh_job_beschreibung_admin.rst > README.rst
+
+help:
+	@echo "clean - remove all generated files"
+	@echo "pdf - build all pdf"
+	@echo "complete - build merged doc"
+
+clean: 
+	rm docs/job*.pdf
+	rm docs/job*.html
+
+readme: README.rst
