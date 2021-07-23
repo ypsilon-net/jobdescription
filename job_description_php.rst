@@ -34,9 +34,6 @@ Contact Info:
 Frankfurt a.M.
     Steffen Oschatz <so@ypsilon.net\ >
 
-Leipzig
-    Sven Richter <sr@ypsilon.net\ >
-
 Phone
     +49 6109 5050
 
