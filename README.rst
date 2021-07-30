@@ -39,9 +39,6 @@ Contact Info:
 Frankfurt a.M.
     Steffen Oschatz <so@ypsilon.net\ >
 
-Leipzig
-    Sven Richter <sr@ypsilon.net\ >
-
 Phone
     +49 6109 5050
 
@@ -84,9 +81,6 @@ Contact Info:
 
 Frankfurt a.M.
     Steffen Oschatz <so@ypsilon.net\ >
-
-Leipzig
-    Sven Richter <sr@ypsilon.net\ >
 
 Phone
     +49 6109 5050
@@ -231,9 +225,6 @@ Kontakt Information
 Frankfurt a.M.
    Steffen Oschatz <so@ypsilon.net>
 
-Leipzig
-   Sven Richter <sr@ypsilon.net>
-
 Telefon
    +49 6109 5050
 
@@ -321,9 +312,6 @@ Kontakt Information
 
 Frankfurt a.M.
    Steffen Oschatz <so@ypsilon.net>
-
-Leipzig
-   Sven Richter <sr@ypsilon.net>
 
 Telefon
    +49 6109 5050
@@ -415,9 +403,6 @@ Kontakt Information
 
 Frankfurt a.M.
    Steffen Oschatz <so@ypsilon.net>
-
-Leipzig
-   Sven Richter <sr@ypsilon.net>
 
 Telefon
    +49 6109 5050
